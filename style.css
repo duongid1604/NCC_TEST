@@ -40,6 +40,7 @@
   width: calc(100vw - 150px - 258px);
   display: flex;
   justify-content: center;
+  padding: 24px 0;
 }
 
 #navbar img {
